@@ -4,7 +4,7 @@
 
 ## Funcionalidades
 
-- Sumular uma chamada telefonica(por enquanto apenas com REST mesmo), a chamada sera liberada apenas se o cliente estiver ativo e fora d eoutra chamada
+- Simular uma chamada telefonica(por enquanto apenas com REST mesmo), a chamada sera liberada apenas se o cliente estiver ativo e fora de outra chamada
 
 
 ---
